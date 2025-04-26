@@ -1,0 +1,7 @@
+{
+    "sensitivity": 10000,
+    "capture_delay": 3,
+    "template_match_threshold": 0.7,
+    "speech_rate": 150,
+    "speech_volume": 0.9
+}
